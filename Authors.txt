@@ -62,3 +62,10 @@
  "Status": "Alive (age 47 years)",
  "Book Name": "Girl in Room 105",
  "Link": "https://www.amazon.in/dp/1542040469/ref=cm_sw_r_apan_glt_fabc_Q19J7MPXWGNYKEP4P1AX?_encoding=UTF8&psc=1",
+ 
+  "id": "10",
+ "Author": "Duryojoy Dutta",
+ "Born": "27 April 1947",
+ "Status": alive ",
+ "Book Name": "A boy who loved",
+ "Link": "https://www.amazon.in/dp/1542040469/ref=cm_sw_r_apan_glt_fabc_Q19J7MPXWGNYKEP4P1AX?_encoding=UTF8&psc=1",
